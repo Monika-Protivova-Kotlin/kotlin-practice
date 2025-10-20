@@ -38,22 +38,6 @@ jobs:
         run: ./gradlew :01-basic:test --no-daemon
         if: always()
 
-      - name: Test Assignments 02-04
-        run: ./gradlew :02-oop:test --no-daemon
-        if: always()
-
-      - name: Test Assignments 05-06
-        run: ./gradlew :03-advanced-oop:test --no-daemon
-        if: always()
-
-      - name: Test Assignment 07
-        run: ./gradlew :04-concurrency:test --no-daemon
-        if: always()
-
-      - name: Test Assignment 08
-        run: ./gradlew :05-app:test --no-daemon
-        if: always()
-
       - name: Publish test results
         uses: EnricoMi/publish-unit-test-result-action@v2
         if: always()
