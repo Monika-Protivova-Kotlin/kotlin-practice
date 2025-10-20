@@ -50,6 +50,37 @@
       "timeout": 10,
       "points": 10
     },
+    ,
+    {
+      "name": "Assignment 02 - Character Tests",
+      "setup": "",
+      "run": "./gradlew :grading:test --tests \"com.motycka.edu.assignment02.CharacterTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Assignment 02 - MatchOutcome Tests",
+      "setup": "",
+      "run": "./gradlew :grading:test --tests \"com.motycka.edu.assignment02.MatchOutcomeTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Assignment 02 - Match Tests",
+      "setup": "",
+      "run": "./gradlew :grading:test --tests \"com.motycka.edu.assignment02.MatchTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
     {
       "name": "Code Quality - Build Success",
       "setup": "",

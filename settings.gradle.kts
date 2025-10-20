@@ -4,4 +4,5 @@ plugins {
 rootProject.name = "kotlin-practice"
 
 include("01-basic")
+include("02-oop")
 

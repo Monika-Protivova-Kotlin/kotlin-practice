@@ -1,0 +1,21 @@
+name,health,attack,class,energy,ability
+Harry Potter,100,40,SORCERER,30,10
+Hermione Granger,90,40,SORCERER,40,15
+Ron Weasley,120,50,SORCERER,20,5
+Severus Snape,80,60,SORCERER,30,12
+Albus Dumbledore,90,40,SORCERER,50,20
+Lord Voldemort,80,80,SORCERER,35,8
+Minerva McGonagall,100,40,SORCERER,35,15
+Bellatrix Lestrange,80,70,SORCERER,25,10
+Draco Malfoy,100,40,SORCERER,30,10
+Neville Longbottom,130,30,SORCERER,20,12
+Luke Skywalker,110,40,WARRIOR,25,15
+Yoda,80,30,WARRIOR,50,20
+Han Solo,120,40,WARRIOR,20,10
+Darth Vader,100,60,WARRIOR,30,18
+Obi-Wan Kenobi,100,40,WARRIOR,35,15
+Emperor Palpatine,80,80,WARRIOR,25,12
+Mace Windu,110,40,WARRIOR,30,15
+Darth Maul,90,60,WARRIOR,35,14
+Kylo Ren,100,50,WARRIOR,25,12
+Finn,130,20,WARRIOR,20,20
