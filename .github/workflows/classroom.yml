@@ -2,9 +2,9 @@ name: GitHub Classroom Workflow
 
 on:
   push:
-    branches: [ main, master, develop ]
+    branches: [ main, master, develop, assignment/* ]
   pull_request:
-    branches: [ main, master, develop ]
+    branches: [ main, master, develop, assignment/* ]
 
 permissions:
   checks: write
