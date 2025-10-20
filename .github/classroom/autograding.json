@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "Assignment 01 - Attack Tests",
+      "setup": "",
+      "run": "./gradlew :grading:test --tests \"com.motycka.edu.assignment01.AttackTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Assignment 01 - ReceiveAttack Tests",
+      "setup": "",
+      "run": "./gradlew :grading:test --tests \"com.motycka.edu.assignment01.ReceiveAttackTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Assignment 01 - GetDamage Tests",
+      "setup": "",
+      "run": "./gradlew :grading:test --tests \"com.motycka.edu.assignment01.GetDamageTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Assignment 01 - Round Tests",
+      "setup": "",
+      "run": "./gradlew :grading:test --tests \"com.motycka.edu.assignment01.RoundTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Assignment 01 - Match Tests",
+      "setup": "",
+      "run": "./gradlew :grading:test --tests \"com.motycka.edu.assignment01.MatchTest\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "All Autograding Tests Pass",
+      "setup": "",
+      "run": "./gradlew :grading:test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 20
+    },
+    {
+      "name": "Code Quality - Build Success",
+      "setup": "",
+      "run": "./gradlew build",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 10
+    }
+  ]
+}
